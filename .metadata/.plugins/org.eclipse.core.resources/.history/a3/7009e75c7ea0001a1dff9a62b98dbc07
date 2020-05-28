@@ -1,0 +1,8 @@
+package com.cos.blog.model;
+
+public class Reply {
+	private int id;
+	private int userid;
+	private String title;
+	
+}
